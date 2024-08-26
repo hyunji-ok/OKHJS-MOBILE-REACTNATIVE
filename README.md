@@ -1,8 +1,7 @@
 # MOBILE-REACTNATIVE
 
 ## [description]
-- 브랜치별로 여러 리액트 네이티브 사용해보는 repository
-    - main: description을 설명하는 브랜치
+- 간단한 튜토리얼을 진행
 
 ## [author]
 - 옥현지
