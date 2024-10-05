@@ -3,6 +3,9 @@
 ## [description]
 - 브랜치별로 여러 리액트 네이티브 사용해보는 repository
     - main: description을 설명하는 브랜치
+    - ok/todo-list: todo list를 만들어보는 브랜치
+    - ok/tutorial: react-native의 튜토리얼 브랜치
+    - ok/tutorial-navigation: react-navigation의 튜토리얼 브랜치
 
 ## [author]
 - 옥현지
@@ -19,7 +22,7 @@
 - 개발환경
     - node: 18.19.0
     - ruby: 3.1.6
-    - jdk: openjdk@11(homebrew 설치)
+    - jdk: openjdk@17(homebrew 설치)
 - zshrc 설정
     ```
         export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
